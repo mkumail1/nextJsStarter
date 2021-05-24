@@ -4,22 +4,28 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>Practice next | About</title>
-        <meta name="keywords" content="Aboutus" />
+        <title>Ninja List | About</title>
+        <meta name="keywords" content="ninjas" />
       </Head>
       <div>
-        <h1>About page</h1>
+        <h1>About</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas
-          velit, odit explicabo dolor exercitationem temporibus dolore fugiat
-          esse excepturi cum! Assumenda in sit dolore, provident sequi excepturi
-          quaerat? Officia.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas
-          velit, odit explicabo dolor exercitationem temporibus dolore fugiat
-          esse excepturi cum! Assumenda in sit dolore, provident sequi excepturi
-          quaerat? Officia.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro
+          reiciendis ea quibusdam nemo nobis hic iure quos odio corporis,
+          laudantium animi laborum voluptatem quia, veniam fuga aperiam officia
+          sequi!
         </p>
       </div>
     </>
