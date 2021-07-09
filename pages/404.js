@@ -22,7 +22,7 @@ const NotFound = () => {
         <Link href="/">
           <a>Homepage</a>
         </Link>{" "}
-        is 3 seconds...
+        in 3 seconds...
       </p>
     </div>
   );
